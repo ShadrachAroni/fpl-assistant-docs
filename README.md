@@ -33,6 +33,7 @@ graph TD
 For deep dives into specific system components, please refer to our technical documentation:
 
 - [**ML Training Architecture**](docs/ML_TRAINING_ARCHITECTURE.md): Detailed explanation of our remote training pipeline via GitHub Actions and Supabase model synchronization.
+- [**Algorithm & Capabilities Deep-Dive**](docs/ALGORITHM_DOCUMENTATION.md): Full documentation of the LightGBM model, 67-feature set, and multi-objective optimization function.
 - [**Deployment Guide**](https://github.com/ShadrachAroni/fpl-assistant/blob/main/DEPLOYMENT.md): Instructions for hosting the frontend on Vercel and the backend on Render.
 
 ## 📺 Media & Demos
